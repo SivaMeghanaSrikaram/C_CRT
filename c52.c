@@ -13,6 +13,6 @@ rlh(int a,int b)
 	{
 		printf("%d\n",a);
 		a++;
-		rlh(a,b);    //recursive function call
+		rlh(a,b); //recursive function call...//we can also write like this return rlh(a,b); 
 	}	
 }
